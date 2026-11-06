@@ -6,7 +6,7 @@ This project analyses Instamart customer and order data to understand customer s
 
 It uses Python, Pandas, SQLite, SQL, and machine learning techniques to clean data, analyse customer behaviour, predict customer lapse, classify support tickets, and develop customer intelligence and support automation features.
 
-## Technologies Used
+### Technologies Used
 
 - Python
 - Pandas
@@ -272,7 +272,7 @@ Generated outputs:
 
 All model calls use the supplied offline mock implementation. No external model API or API key is required.
 
-## Part C Limitations
+### Part C Limitations
 
 The classification results are based on a supplied mock language model and a limited synthetic ticket dataset. High evaluation accuracy does not establish production-level reliability.
 
